@@ -4,8 +4,8 @@ defaultContentLanguage = 'en'
 
 
 [params]
-  title = 'Remix, a theme for Hugo fully editable with Netlify CMS'
-  metaDescription = "Hugo + Netlify CMS + One click deploy to Netlify"
+  title = 'Cameron Heard'
+  metaDescription = "sometimes I like to do weird things"
 
 
 # Languages
